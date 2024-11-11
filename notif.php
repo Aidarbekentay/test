@@ -1,4 +1,6 @@
 <?php
+echo "Hello";
+return;
 $file = 'birthday.txt';
 $lines = file($file);
 
